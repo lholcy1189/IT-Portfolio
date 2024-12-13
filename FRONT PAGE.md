@@ -5,7 +5,8 @@
 
 
 ## About Me 
-
+<p>I am an IT professional who transitioned from healthcare to cybersecurity. I have experience in IT support for both Microsoft and Mac environments and foundational knowledge of networking. My hands-on background includes fraud analysis and implementing cybersecurity principles, particularly authentication within the CIA triad. I have completed the IBM Cybersecurity Coursera program and am advancing my skills through Google's Cybersecurity Coursera course.
+Motivated by the challenge of problem-solving in cybersecurity, I am developing my technical expertise and gaining practical experience in threat detection and incident response. My ultimate goal is to contribute as a Security Operations Center (SOC) analyst and grow into a leadership role.</p>
 
 
 ## Certifications 🎓
