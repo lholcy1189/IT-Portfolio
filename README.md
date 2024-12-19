@@ -40,16 +40,12 @@ Motivated by the challenge of problem-solving in cybersecurity, I am developing 
 
 - 🍢Florida State University Bachelor of Science in Exercise Science with a minor in Psychology
 
+## Courses
 
-## Resume
-
-
-
-## Seeking Opportunities 🌟
-
-
-## Contact Information
-📧:lemonte.holcy@gmail.com
+| Coursera  | Expertise Highlight |
+| --- | --- |
+|  Google Cyber Securtiy |
+|   | |
 
 ---
 <h2>Cybersecurity Projects :</h2>
@@ -58,4 +54,8 @@ Motivated by the challenge of problem-solving in cybersecurity, I am developing 
 | --- | --- |
 |  | |
 |   | |
+
+
+## Contact Information
+📧:lemonte.holcy@gmail.com
 
