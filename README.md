@@ -36,24 +36,9 @@ Motivated by the challenge of problem-solving in cybersecurity, I am developing 
 
 
 
-## Education 📚
+## Education 
 
 - 🍢Florida State University Bachelor of Science in Exercise Science with a minor in Psychology
-
-## Courses
-
-| Coursera  | Expertise Highlight |
-| --- | --- |
-|  Google Cyber Securtiy |
-|   | |
-
----
-<h2>Cybersecurity Projects :</h2>
-  
-| Projects  | Expertise Highlight |
-| --- | --- |
-|  | |
-|   | |
 
 
 ## Contact Information
