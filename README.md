@@ -14,7 +14,7 @@
 
 ## Professional Experience 💼
 
-### Osaic Wealth | Advisor IT Support
+### Osaic Wealth | IT Support Specialist
 - Diagnose and resolve end-user issues across Windows/macOS; maintain ~90% first call resolution with clear documentation of
 processes.
 - Log and track incidents and requests in Salesforce, and document resolution steps and updates for accurate case auditing.
