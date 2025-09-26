@@ -10,7 +10,7 @@ Motivated by the challenge of problem-solving in cybersecurity, I am developing 
 
 
 ## Certifications 🎓
--
+-[CompTIA Security+ Ce](https://www.credly.com/badges/ccedf930-0be8-4f33-8a70-c42cf7db75cb)
 
 
 ## Professional Experience 💼
