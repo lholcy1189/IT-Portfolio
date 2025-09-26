@@ -15,23 +15,26 @@
 ## Professional Experience 💼
 
 ### Osaic Wealth | Advisor IT Support
-- Cyber Security: Create reports for instances on behalf of the financial professionals in response to malware, virus infections, and potential data breaches.
-- Active Directory: Access and update information in the active directory.
-- Troubleshooting: Research and solve technical problems related to hardware, software, cloud email administration, network, and account accessibility.
-- Identity Access: Utilize standard security protocols to identify clients and representatives for account accessibility properly.
-- Provisioning: Role-based access control and re-credentialing based on outline procedures to grant elevated access.
-- Establishing Single Sign On and Multifactor Authentication
-
+- Diagnose and resolve end-user issues across Windows/macOS; maintain ~90% first call resolution with clear documentation of
+processes.
+- Log and track incidents and requests in Salesforce, and document resolution steps and updates for accurate case auditing.
+- Provide detailed guidance to users via phone and email, translating technical descriptions into actionable troubleshooting steps for
+non-technical users.
+- Manage access in Active Directory, Azure AD/Entra ID, and other financial services environments (provisioning/deprovisioning,
+MFA/SSO, RBAC).
+- Escalate unresolved issues to the appropriate teams and vendors, own communications, and follow through to closure.
+- Create and maintain internal SOPs and user-facing documentation.
+- Application support: capture user feedback and share effective workarounds with teammates
 
 
 ### ID.me | Operation Support and Fraud Analyst Team Lead
--	Data Processing: Maintain data sheets with key performance indicators for teams, including creating templates for analysis of the raw data files. 
--	Quality Control: Monitor and audit agents as they complete their verifications including documents, videos, and written reports. 
--	CDD/KYC: Verify that each customer is who they say they are through guidelines regulated by NIST. 
--	Management: Led a team of analysts as they authenticated the identity of members seeking benefits. 
--	Onboarding: Outfitted new employees with the equipment and resources and provisioned them correctly. 
--	Fraud Analysis: Tampa office Fraud Strategy Liaison. Research and suspend fraudulent accounts based on established indicators. 
--	YubiKey: Configuration and tracking of devices from onboarding to offboarding.
+-Led a 40-member team handling high-volume identity verifications, serving as an escalation point for complex access/authentication issues.
+- Logged cases, notes, and escalations in Salesforce; ensured timely updates and accurate dispositioning.
+- Guided users through account access, MFA, and credential issues across phone, email, and chat channels.
+- Managed authentication hardware (e.g., YubiKeys) and credential provisioning in coordination with IT.
+- Authored playbooks and internal documentation in Confluence; improved onboarding/training efficiency and team KPIs.
+- Tracked and reported team performance metrics (Tableau/Excel) to drive evidence-based improvements.
+
 
 
 
