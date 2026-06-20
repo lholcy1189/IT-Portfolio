@@ -5,7 +5,13 @@
 
 
 ## About Me 
-<p>IT Support Specialist with over 3 years of experience providing Tier 1 and Tier 2 technical support across Windows, Mac, and Linux OS. Skilled in desktop hardware/software troubleshooting, Active Directory, and Entra ID/Azure AD account management, and ITSM ticketing. Strong record of incident resolution, escalation management, and clear documentation. U.S. Citizen - Clearance eligible(No Active Clearance).</p>
+<p>IT Support Specialist with 3+ years of experience supporting enterprise environments through identity and access management, endpoint support, application troubleshooting, and technical operations. Experienced supporting Windows, macOS, and Linux environments with a focus on Active Directory, Entra ID, Okta, MFA, SSO, access troubleshooting, and security practices within regulated financial and technology environments.
+
+I am focused on advancing within IAM and systems administration through hands-on experience with user access workflows, authentication systems, endpoint troubleshooting, and Linux administration fundamentals including users/groups, permissions, system services, SSH, and networking. 
+
+CompTIA Security+ certified (DoD 8570 IAT Level II) and currently pursuing Red Hat Linux Certification (RHCSA - EX200).
+
+U.S. Citizen | Eligible for security clearance opportunities | Open to Relocation Anywhere in the U.S.</p>
 
 
 ## Certifications 🎓
