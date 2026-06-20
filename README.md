@@ -21,27 +21,45 @@ U.S. Citizen | Eligible for security clearance opportunities | Open to Relocatio
 ## Professional Experience 💼
 
 ### Osaic Wealth | IT Support Specialist
-- Diagnose and resolve end-user issues across Windows/macOS; maintain ~90% first call resolution with clear documentation of
-processes.
-- Log and track incidents and requests in Salesforce, and document resolution steps and updates for accurate case auditing.
-- Provide detailed guidance to users via phone and email, translating technical descriptions into actionable troubleshooting steps for
-non-technical users.
-- Manage access in Active Directory, Azure AD/Entra ID, and other financial services environments (provisioning/deprovisioning,
-MFA/SSO, RBAC).
-- Escalate unresolved issues to the appropriate teams and vendors, own communications, and follow through to closure.
-- Create and maintain internal SOPs and user-facing documentation.
-- Application support: capture user feedback and share effective workarounds with teammates
+• Support 11,000+ financial advisors and staff by troubleshooting Windows, macOS, mobile, and application issues while maintaining SLA compliance in a high-volume enterprise environment.
+ 
+• Resolve authentication and access-related issues including password resets, account unlocks, MFA recovery, application access issues, and user access troubleshooting across business-critical platforms.
+ 
+• Support identity and access workflows involving Active Directory, Entra ID, Exchange, and vendor-managed platforms including account creation, access requests, application provisioning, and authentication troubleshooting.
+ 
+• Troubleshoot endpoint issues including operating system errors, browser issues, Outlook profile problems, device enrollment, authentication device registration, and software access issues.
+ 
+• Diagnose and resolve application, connectivity, VPN, and authentication-related issues while supporting device registration within Entra ID and vendor compliance platforms.
+ 
+• Support enterprise system migration and integration efforts related to post-merger technology changes, including troubleshooting end-user access issues during the transition to Ping authentication services.
+ 
+• Collaborate with DevOps, engineering, and vendor support teams to investigate complex technical issues, identify workarounds, and support long-term resolution efforts.
+ 
+• Identify recurring application and authentication issues, document workarounds, and assist with remediation efforts until permanent solutions are implemented.
+ 
+• Document incidents, access requests, troubleshooting steps, and resolutions within ServiceNow and Salesforce to support operational tracking and knowledge sharing.
 
 
-### ID.me | Operation Support and Fraud Analyst Team Lead
--Led a 40-member team handling high-volume identity verifications, serving as an escalation point for complex access/authentication issues.
-- Logged cases, notes, and escalations in Salesforce; ensured timely updates and accurate dispositioning.
-- Guided users through account access, MFA, and credential issues across phone, email, and chat channels.
-- Managed authentication hardware (e.g., YubiKeys) and credential provisioning in coordination with IT.
-- Authored playbooks and internal documentation in Confluence; improved onboarding/training efficiency and team KPIs.
-- Tracked and reported team performance metrics (Tableau/Excel) to drive evidence-based improvements.
+### ID.me | Team Lead
+• Led a 40-member identity verification team supporting high-volume enrollment and account verification operations while maintaining quality, security, and performance standards.
 
+• Supported onboarding and technical readiness for 100+ employees and contractors by preparing workstations, validating required system access, and coordinating access requests across business-critical platforms.
 
+• Assisted with employee access setup and troubleshooting including Okta access, MFA enrollment, authenticator configuration, YubiKey registration, and permissions-related issues.
+
+• Provided workstation and application support for team members by troubleshooting technical issues and coordinating resolution with internal support teams.
+
+• Worked with sensitive PII, identity documentation, authentication workflows, and account recovery processes while following security and privacy requirements.
+
+• Investigated escalated identity verification cases involving identity mismatches, fraud indicators, authentication failures, account recovery concerns, and potential account compromise attempts.
+
+• Performed quality audits and operational reviews across multiple teams to ensure adherence to identity verification procedures and security standards.
+
+• Contributed to the development and refinement of identity verification procedures, escalation workflows, and operational processes during periods of company growth.
+
+• Created training materials and process documentation to improve onboarding consistency and team performance.
+
+• Used Salesforce, Tableau, and Excel to monitor performance metrics, identify trends, and support operational improvements.
 
 
 ## Education 
